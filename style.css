@@ -35,3 +35,12 @@ body {
   bottom: 0;
   right: 0;
 }
+
+#center {
+    position: absolute;
+    color: #CC0099;
+    top: 50%;
+    width: 50%;
+    margin: 0 auto;
+}
+    
