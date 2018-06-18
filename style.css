@@ -6,7 +6,7 @@ body {
 
 .floater {
   position: fixed;
-  background: rgba(0, 0, 0, 0);
+  background: #000000
   color: #666666
 }
 .floater>a {
