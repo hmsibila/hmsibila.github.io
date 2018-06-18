@@ -1,0 +1,37 @@
+body {
+  margin: 0
+  padding: 0
+  border: 0
+}
+
+.floater {
+  position: fixed;
+  background: rgba(.5,.5,.5,.5);
+  color: #666666
+}
+.floater>a {
+  text-decoration: none;
+}
+.floater>a:hover {
+  color: #ffffff;
+}
+
+#topleft {
+  top: 0;
+  left: 0;
+}
+
+#topright {
+  top: 0;
+  right: 0;
+}
+
+#botleft {
+  bottom: 0;
+  left: 0;
+}
+
+#botright {
+  bottom: 0;
+  right: 0;
+}
