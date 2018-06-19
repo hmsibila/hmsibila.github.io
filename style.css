@@ -22,21 +22,25 @@ body {
 #topleft {
   top: 0;
   left: 0;
+  color: #008000
 }
 
 #topright {
   top: 0;
   right: 0;
+  color: #008000
 }
 
 #botleft {
   bottom: 0;
   left: 0;
+  color: #008000
 }
 
 #botright {
   bottom: 0;
   right: 0;
+  color: #008000
 }
 
 #center {
