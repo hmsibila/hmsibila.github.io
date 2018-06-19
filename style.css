@@ -13,7 +13,7 @@ body {
   text-decoration: none;
 }
 .floater>a:hover {
-  color: #ffffff;
+  color: #00FF00;
 }
 .floater>a {
   font: italic Arial, Helvetica, sans-serif; 
