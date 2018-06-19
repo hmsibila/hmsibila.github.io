@@ -16,7 +16,7 @@ body {
   color: #ffffff;
 }
 .floater>a {
-  fontfamily: italic Arial, Helvetica, sans-serif; 
+  font: italic Arial, Helvetica, sans-serif; 
   
 
 #topleft {
