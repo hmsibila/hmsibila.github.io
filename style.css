@@ -6,9 +6,10 @@ body {
 
 .floater {
   position: fixed;
-  background: #000000;
+  background: #ffffff;
   color: #008000;
-  font: italic Arial, Helvetica, sans-serif; 
+  font-style: italic;
+  font-family: Arial, sans-serif; 
 }
 .floater>a {
   text-decoration: none;
