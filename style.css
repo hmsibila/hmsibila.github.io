@@ -7,7 +7,7 @@ body {
 .floater {
   position: fixed;
   background: #000000
-  color: #666666
+  color: #008000
 }
 .floater>a {
   text-decoration: none;
