@@ -15,6 +15,9 @@ body {
 .floater>a:hover {
   color: #ffffff;
 }
+.floater>a {
+  fontfamily: italic Arial, Helvetica, sans-serif; 
+  
 
 #topleft {
   top: 0;
