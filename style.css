@@ -6,8 +6,9 @@ body {
 
 .floater {
   position: fixed;
-  background: #000000
-  color: #008000
+  background: #000000;
+  color: #008000;
+  font: italic Arial, Helvetica, sans-serif; 
 }
 .floater>a {
   text-decoration: none;
@@ -15,9 +16,7 @@ body {
 .floater>a:hover {
   color: #00FF00;
 }
-.floater>a {
-  font: italic Arial, Helvetica, sans-serif; 
-} 
+
 
 #topleft {
   top: 0;
