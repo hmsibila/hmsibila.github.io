@@ -56,7 +56,13 @@ body {
     margin: 0 auto;
 }
     #bottomtext {
+      position: absolute;
       top: 100%;
       left: 50%;
-      color: #FF0000
+      color: #FF0000;
+      transform: translate(-50%, 0);
+      font-size: 450%;
+      
+      margin: 0 auto;
+}
 } 
