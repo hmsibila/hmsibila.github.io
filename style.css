@@ -55,4 +55,8 @@ body {
 
     margin: 0 auto;
 }
-    
+    #bottomtext {
+      bottom: 0;
+      left: 50;
+      color: #FF0000
+} 
