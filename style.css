@@ -57,6 +57,7 @@ body {
 }
     #bottomtext {
       position: absolute;
+       color: #FF0000;
       top: 100%;
       left: 50%;
       color: #FF0000;
@@ -64,5 +65,4 @@ body {
       font-size: 450%;
       
       margin: 0 auto;
-}
-} 
+  }
