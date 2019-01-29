@@ -45,6 +45,12 @@ body {
   color: #008000
 }
 
+#archives {
+  top: 60%;
+  left: 50%;
+  color: e0ffff;
+}
+
 #center {
     position: absolute;
     color: #CC0099;
