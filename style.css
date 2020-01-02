@@ -17,10 +17,17 @@ body, html {
 
   /* Center and scale the image nicely */
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
 }
+
+.screen {
   
+  background-color: #897676;
+  height: 100%;
+  opacity: 0.5;
+  background-size: cover;
+}
 
 .floater {
   position: fixed;
