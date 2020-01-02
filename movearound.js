@@ -1,8 +1,8 @@
 $(document).ready(function(){
-    animateDiv('.a');
-    animateDiv('.b');
+    animateDiv('.pepperrally');
+  /*  animateDiv('.b');
     animateDiv('.c');
-    animateDiv('.d');
+    animateDiv('.d');*/
 });
 
 function makeNewPosition(){
