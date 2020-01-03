@@ -1,7 +1,7 @@
 $(document).ready(function(){
     animateDiv('.myButton');
-  /*  animateDiv('.b');
-    animateDiv('.c');
+ animateDiv('.b');
+     /*  animateDiv('.c');
     animateDiv('.d');*/
 });
 
