@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    animateDiv('.pepperrally');
+    animateDiv('.myButton');
   /*  animateDiv('.b');
     animateDiv('.c');
     animateDiv('.d');*/
