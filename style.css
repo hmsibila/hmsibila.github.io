@@ -33,9 +33,10 @@ body, html {
 }
 
 .pepperrally {
-width: 100%;
-height: auto;
+width: 50px;
+height: 50px;
 position:fixed; 
+background-image: url("peppericon.png");
 }
 
 .pepperrally>a {
