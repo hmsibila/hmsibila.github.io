@@ -43,6 +43,8 @@ background-image: url("peppericon.png");
 .myButton {
 	box-shadow:inset 0px 10px 14px -7px #bc9edf;
 	background-image:url("peppericon.png");
+	background-repeat: no-repeat;
+	background-position: top;
 	border-radius:17px;
 	display:inline-block;
 	cursor:pointer;
