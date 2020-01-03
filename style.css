@@ -33,10 +33,9 @@ body, html {
 }
 
 .peppericon {
-	box-shadow: inset 0px 10px 14px -7px #bc9edf;
 	max-height: 400px;
 	width: 282px;
-	position: relative;
+	position: fixed;
 	top: 15;
 	left: 15;
 }
@@ -47,18 +46,16 @@ body, html {
 }
 
 .wholeholeicon {
-	box-shadow: inset 0px 10px 14px -7px #bc9edf;
 	max-height: 400px;
 	width: 282px;
-	min-width: 75px;
-	position: relative;
+	position: fixed;
 	top: 50;
 	left: 15;
 }
 
 .wholeholeicon:hover {
 	opacity: 0.5;
-	box-shadow: inset 0px 10px 14px -7px #008000;
+	box-shadow: inset 0px 5px 5px -7px #008000;
 }
 
 .speedicon {
@@ -78,11 +75,10 @@ body, html {
 }
 
 .toileticon {
-		box-shadow: inset 0px 10px 14px -7px #bc9edf;
 	max-height: 400px;
 	width: 282px;
 	min-width: 75px;
-	position: relative;
+	position: fixed;
 	top: 50;
 	left: 50;
 	
