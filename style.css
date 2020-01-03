@@ -32,22 +32,67 @@ body, html {
     height: 100%;
 }
 
-.iconlink {
+.peppericon {
 	box-shadow: inset 0px 10px 14px -7px #bc9edf;
-	max-height: 200px;
-	width: 141px;
-	min-width: 75px;
-	position: fixed;
-	top: 0;
+	max-height: 400px;
+	width: 282px;
+	position: relative;
+	top: 15;
 	left: 15;
 }
 
-.iconlink:hover {
+.peppericon:hover {
 	opacity: 0.5;
 	box-shadow: inset 0px 10px 14px -7px #008000;
 }
 
+.wholeholeicon {
+	box-shadow: inset 0px 10px 14px -7px #bc9edf;
+	max-height: 400px;
+	width: 282px;
+	min-width: 75px;
+	position: relative;
+	top: 50;
+	left: 15;
+}
 
+.wholeholeicon:hover {
+	opacity: 0.5;
+	box-shadow: inset 0px 10px 14px -7px #008000;
+}
+
+.speedicon {
+	box-shadow: inset 0px 10px 14px -7px #bc9edf;
+	max-height: 400px;
+	width: 282px;
+	min-width: 75px;
+	position: relative;
+	top: 15;
+	left: 50;
+	
+}
+
+.speedicon:hover {
+	opacity: 0.5;
+	box-shadow: inset 0px 10px 14px -7px #008000;
+}
+
+.toileticon {
+		box-shadow: inset 0px 10px 14px -7px #bc9edf;
+	max-height: 400px;
+	width: 282px;
+	min-width: 75px;
+	position: relative;
+	top: 50;
+	left: 50;
+	
+}
+
+.toileticon:hover {
+	opacity: 0.5;
+	box-shadow: inset 0px 10px 14px -7px #008000;
+}
+	
 .myButton {
 	box-shadow: inset 0px 10px 14px -7px #bc9edf;
 	background-image: url("speediconsmall.png");
