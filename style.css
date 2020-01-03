@@ -37,6 +37,9 @@ body, html {
 	max-height: 200px;
 	width: 141px;
 	min-width: 75px;
+	position: fixed;
+	top: 0;
+	left: 15;
 }
 
 .iconlink:hover {
