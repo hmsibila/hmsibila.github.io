@@ -45,6 +45,8 @@ background-image: url("peppericon.png");
 	background-image:url("peppericon.png");
 	background-repeat: no-repeat;
 	background-position: top;
+	height: 100px;
+	width: 100px;
 	border-radius:17px;
 	display:inline-block;
 	cursor:pointer;
