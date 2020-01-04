@@ -93,6 +93,8 @@ body, html {
 	background-color: 56bed8;
 	border-radius: 17px;
 	display: inline-block;
+	margin-left: 50%;
+	margin-right: auto;
 	cursor: pointer;
 	color: #ffffff;
 	font-family: Arial;
