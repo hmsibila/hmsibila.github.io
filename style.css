@@ -113,6 +113,14 @@ body, html {
 	top:1px;
 }
 
+div.mover {
+	width: 100px;
+	height: auto;
+	position: fixed;
+}
+
+	
+
 
 
 .floater {
