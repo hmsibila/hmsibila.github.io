@@ -87,6 +87,22 @@ body, html {
 	opacity: 0.5;
 	box-shadow: inset 0px 10px 14px -7px #008000;
 }
+
+$n: 16;
+$m: 8;
+
+@keyframes archivesMove {
+	@for $i from 0 through $n {
+    #{$i * 100% / $n} {
+      @include transform(
+        scale(random($n / $m) + 1.5)
+        rotate(random(360) + deg)
+        translate(random($n * 3 / $m) + em)
+      );
+		}
+	}
+}
+	
 	
 .myButton {
 	box-shadow: inset 0px 10px 14px -7px #bc9edf;
@@ -112,6 +128,14 @@ body, html {
 .myButton:active {
 	position:relative;
 	top:1px;
+}
+
+#archives {
+	float: right;
+	animation-name: archivesMove;
+		animation-duration: 10s; 
+		animation-iteration-count: infinite;
+	animation-direction: alternate;
 }
 
 div.mover {
@@ -164,13 +188,6 @@ div.mover {
   color: #008000
 }
 
-#archives {
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  color: e0ffff;
-  font-size: 450%;
-}
 
 #center {
     position: absolute;
