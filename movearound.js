@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    animateDiv('.myButton');
+    animateDiv('.mover');
      /*  animateDiv('.c');
     animateDiv('.d');*/
 });
