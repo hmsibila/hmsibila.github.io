@@ -46,6 +46,9 @@ h2 {
 	
 
 .parallelogram {
+	position: fixed;
+	top: 0;
+	left: 2;
 	width: 450px;
 	height: 600px;
 	transform: skew(20deg);
