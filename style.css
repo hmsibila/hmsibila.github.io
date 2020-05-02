@@ -32,9 +32,13 @@ body, html {
     height: 100%;
 }
 
+h1 {
+	background-color: #ffffff;
+	color: 
+
 .parallelogram {
-	width: 500px;
-	height: 500px;
+	width: 450px;
+	height: 600px;
 	transform: skew(20deg);
 	background: #555;
 }
