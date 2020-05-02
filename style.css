@@ -164,6 +164,8 @@ ul {
 
 li {
   float: right;
+	font-family: Arial, sans-serif;
+	color: bc9edf;
 }
 
 li a {
@@ -172,6 +174,7 @@ li a {
   text-align: right;
   padding: 14px 16px;
   text-decoration: none;
+	
 }
 
 /* Change the link color to #111 (black) on hover */
