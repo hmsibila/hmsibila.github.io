@@ -34,7 +34,16 @@ body, html {
 
 h1 {
 	background-color: #ffffff;
-	color: 
+	color: #32127A;
+	font-family: Arial, sans-serif;
+}
+
+h2 {
+	background-color: #ffffff;
+	color: #32127A;
+	font-family: Arial, sans-serif;
+}
+	
 
 .parallelogram {
 	width: 450px;
