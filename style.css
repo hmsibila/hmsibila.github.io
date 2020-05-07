@@ -173,6 +173,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #56bed8;
+	position: relative;
 }
 
 li {
