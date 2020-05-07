@@ -35,8 +35,8 @@ body, html {
 } */
 .callforwork {
 position: relative;
-  right: 56px;
-	width: 75%;
+ left: 106px;
+	width: 50%;
 	padding: 15px;
 	text-align:right;
 }
